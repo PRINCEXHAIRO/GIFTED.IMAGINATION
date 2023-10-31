@@ -18,6 +18,7 @@ body {
   .TopHeader{
     background-color: aliceblue;
     padding: 50px;
+    
   }
 
   .BottomHeader { 
@@ -25,7 +26,12 @@ body {
     padding: 50px;
   }
 
-h1 {
+h1{
+    text-align: center;
+    font-size:xx-large;
+}
+
+h2 {
     text-align: center;
     font-size:xx-large;
 }
